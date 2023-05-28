@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/1c2ba7u0cw0ei3ek?svg=true)](https://ci.appveyor.com/project/Lambonik/patterns-task2)
